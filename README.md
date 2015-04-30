@@ -5,3 +5,5 @@ University project for Computation Intelligence course, in collaboration with Dr
 giancarlo.valente@maastrichtuniversity.nl
 
 Made with Emanuele Russomanno
+
+1 year of Master
